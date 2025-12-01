@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="oppgave1/oppgave1.csproj" />
+  <Project Path="Oppgave2/Oppgave2.csproj" />
+  <Project Path="Oppgave3/Oppgave3.csproj" />
+  <Project Path="referansetype-verditype/referansetype-verditype.csproj" />
+</Solution>
